@@ -1,5 +1,3 @@
-# Retail-Sales-ETL-Pipeline-Project
-
 # 🛒 Retail Sales ETL Pipeline (with Delta Lake)
 
 This project showcases an end-to-end ETL pipeline built using **PySpark** on **Databricks**.
